@@ -11,16 +11,16 @@ type RundownItem = {
 
 const rundown: RundownItem[] = [
   { id: 1, date: "Nov 2024", about: "Peserta Mini Bootcamp 1.0 HMIF ITERA" },
-  { id: 2, date: "Mar 2025", about: "Panitia Divisi IT Pemilihan Ketua Angkatan 24" },
-  { id: 3, date: "Apr - Now", about: "Badan Pengurus Angkatan Teknik Informatika Angkatan 24 Divisi IT" },
-  { id: 4, date: "Jun - August 2025", about: "Staff Subdivisi Front End PPLK ITERA 2025" },
+  { id: 2, date: "Feb - Mar 2025", about: "Panitia Divisi IT Pemilihan Ketua Angkatan 24" },
+  { id: 3, date: "May 2025 - Now", about: "Badan Pengurus Angkatan Teknik Informatika Angkatan 24 Divisi IT" },
+  { id: 4, date: "Jun - August 2025", about: "Staff IMTEK Subdivisi Front End PPLK ITERA 2025" },
   { id: 5, date: "Jul 2025", about: "Panitia Penyambutan Maba Teknik Informatika Angkatan 25" },
   { id: 6, date: "Aug 2025", about: "Volunteer HMIF Mengabdi Vol. 3 2025" },
   { id: 7, date: "Sep - Oct 2025", about: "Kepala Divisi IT Informatics Goes to TPB 2025" },
   { id: 8, date: "Sep - Dec 2025", about: "Asisten Praktikum Dasar Teknologi Digital" },
   { id: 9, date: "Oct 2025", about: "Staff IMTEK PODIUM ITERA"},
   { id: 10, date: "Oct 2025", about: "Staff Magang Kementrian Teknologi Informasi KM ITERA"},
-  { id: 11, date: "Nov 2025", about: "Staff Sponsorship Informatics Festival 2025" },
+  { id: 11, date: "Oct - Nov 2025", about: "Staff Sponsorship Informatics Festival 2025" },
 ];
 
 
