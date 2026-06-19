@@ -34,7 +34,7 @@ export default function Intro({  }: Props) {
               Mahasiswa Program Studi Teknik Informatika
             </h2>
 
-            <p className={`${inter.className} max-w-prose text-sm md:text-base text-[#00000] ml-8`}>Saat ini saya berkuliah di Institut Teknologi Sumatera. Saya memiliki minat besar dalam bidang front-end dan sedang aktif memperdalam keterampilan NextJS.</p>
+            <p className={`${inter.className} max-w-prose text-sm md:text-base text-[#000000] ml-8`}>Saat ini saya berkuliah di Institut Teknologi Sumatera. Saya memiliki minat besar dalam bidang front-end dan sedang aktif memperdalam keterampilan NextJS.</p>
           </div>
 
           {/* RIGHT - IMAGE CARD */}
