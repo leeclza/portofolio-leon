@@ -42,7 +42,7 @@ const dataByTab: Record<Tab, RundownItem[]> = {
   ],
   prestasi: [
     { id: 1, date: "Aug 2024", about: "Peserta Pelatihan LKMM Pra-TD I, ITERA", isIT: false, role: "Peserta", event: "Pelatihan LKMM Pra-TD I ITERA", desc: "Mengikuti pelatihan kepemimpinan dan manajemen mahasiswa tingkat pra-dasar untuk mengembangkan jiwa kepemimpinan." },
-    { id: 2, date: "Nov 2024", about: "Peserta Mini Bootcamp 1.0 HMIF, ITERA", isIT: false, role: "Peserta", event: "Mini Bootcamp 1.0 HMIF ITERA", desc: "Mengikuti mini bootcamp yang diselenggarakan oleh HMIF ITERA sebagai program pengembangan kemampuan teknis mahasiswa baru." },
+    { id: 2, date: "Nov 2024", about: "Peserta Mini Bootcamp 1.0 HMIF, ITERA", isIT: false, role: "Peserta", event: "Mini Bootcamp 1.0 HMIF ITERA", desc: "Mengikuti mini bootcamp yang diselenggarakan oleh HMIF ITERA dengan mengerjakan, merilis, dan showcase sebuah website sederhana sebagai hasil akhir dari rangkaian bootcamp." },
     { id: 3, date: "Aug 2025", about: "Volunteer HMIF Mengabdi Vol. 3, ITERA", isIT: false, role: "Volunteer", event: "HMIF Mengabdi Vol. 3", desc: "Berpartisipasi sebagai volunteer dalam kegiatan pengabdian masyarakat yang diselenggarakan oleh HMIF ITERA." },
     { id: 4, date: "May 2026", about: "Peserta Pelatihan LKMM TD VIII, ITERA", isIT: false, role: "Peserta", event: "Pelatihan LKMM TD VIII ITERA", desc: "Mengikuti pelatihan kepemimpinan dan manajemen mahasiswa tingkat dasar untuk mengembangkan jiwa kepemimpinan." },
   ],
